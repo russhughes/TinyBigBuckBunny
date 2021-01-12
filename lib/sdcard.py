@@ -1,4 +1,6 @@
 """
+Peter Hinch https://github.com/peterhinch
+
 MicroPython driver for SD cards using SPI bus.
 
 Requires an SPI bus and a CS pin.  Provides readblocks and writeblocks
