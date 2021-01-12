@@ -27,7 +27,5 @@ tft.init()
 
 for i in range(1, 2387):
     last = time.ticks_ms()
-    f = "/sd/160x120/{:04d}.jpg".format(i)
-    tft.jpg(f, 80, 60, ili9342c.FAST)
-    #while time.ticks_diff(time.ticks_ms(), last) < 250:
-    #    pass
+    frame = "/sd/160x120/{:04d}.jpg".format(i)
+    tft.jpg(frame, 80, 60, ili9342c.FAST)
