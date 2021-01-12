@@ -18,5 +18,4 @@ it is included in the lib folder.
 This is not a serious attempt to play a movie on the M5Stack it's just a test
 of the display drivers JPG code.
 
-The Movie "Big Buck Bunny" (c) copyright 2008, Blender Foundation
-www.bigbuckbunny.org
+"Big Buck Bunny" (c) copyright 2008, Blender Foundation / www.bigbuckbunny.org
